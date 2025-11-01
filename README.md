@@ -26,13 +26,13 @@ Everything — the header, profile card, paragraph text, images, and footer — 
 (We’ll create all content through JavaScript.)**
 
 #### Step 2 — Create a Header
-- In your script.js, create a header element (like <h1></h1>).
+- In your script.js, create a header element (like h1 tag).
 - Write: “Welcome to My Page”.
 - Attach this header to the body so it appears at the top.
 
 #### Step 3 — Make Your Profile Card
 
-- Create a container (like a <div></div>) for the profile.
+- Create a container (like a div tag) for the profile.
 
 **Inside it, create:**
 
