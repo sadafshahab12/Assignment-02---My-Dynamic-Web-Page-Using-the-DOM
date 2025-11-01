@@ -22,17 +22,17 @@ Everything — the header, profile card, paragraph text, images, and footer — 
 - index.html
 - script.js
 
-**In your HTML file, keep only the basic structure — just link your JS file before the closing </body> tag.
+**In your HTML file, keep only the basic structure — just link your JS file before the closing *body* tag.
 (We’ll create all content through JavaScript.)**
 
 #### Step 2 — Create a Header
-- In your script.js, create a header element (like <h1>).
+- In your script.js, create a header element (like <h1></h1>).
 - Write: “Welcome to My Page”.
 - Attach this header to the body so it appears at the top.
 
 #### Step 3 — Make Your Profile Card
 
-- Create a container (like a <div>) for the profile.
+- Create a container (like a <div></div>) for the profile.
 
 **Inside it, create:**
 
