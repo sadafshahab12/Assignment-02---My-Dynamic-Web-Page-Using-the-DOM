@@ -61,7 +61,7 @@ Everything — the header, profile card, paragraph text, images, and footer — 
 -  Example: flowers, cars, or travel pictures.
 - Use a loop to go through each image in that list.
 -  For each one, create an <img> element and set its src to the image link.
--  Add each image into a gallery container (like a <div>).
+-  Add each image into a gallery container (like a div tag).
 - Attach that gallery container to the body.
 
 #### Step 6 — Add a Footer
